@@ -15,7 +15,13 @@ https://user-images.githubusercontent.com/70268434/168577298-f0c6107a-dca7-4235-
 ## testing the program with invalid data
 
 
-
-
 https://user-images.githubusercontent.com/70268434/168577312-d118ba94-db19-4983-b654-72e023358f32.mp4
+
+
+## running unit tests
+
+1. enter project directory 
+2. run `./gradlew test` in your terminal 
+3. then `cd build/reports/tests/test`
+4. open the *index.html* file in your browser to see the results
 
